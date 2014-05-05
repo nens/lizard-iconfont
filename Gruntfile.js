@@ -10,7 +10,17 @@ module.exports = function(grunt) {
 			lizard: {
 				src: 'lizard/src/*.svg',
 				dest: 'lizard/dest/fonts',
-				destCss: 'lizard/dest/css',
+				options: {
+					font: 'Lizard',
+					types: 'eot,woff,svg,ttf',
+					syntax: 'bootstrap',
+					hashes: false
+				}
+			},
+			site: {
+				src: 'lizard/src/*.svg',
+				dest: '_site/fonts',
+				destCss: '_site',
 				options: {
 					font: 'Lizard',
 					types: 'eot,woff,svg,ttf',
@@ -18,6 +28,7 @@ module.exports = function(grunt) {
 					hashes: false
 				}
 			}
+
 		},
 		jshint: {
 			all: ['Gruntfile.js', 'tasks/*.js', 'lizard/*.js'],
@@ -33,15 +44,12 @@ module.exports = function(grunt) {
 				laxbreak: true
 			}
 		},
-		copy: {
-			webfont: {
+		rename: {
+			main: {
 				files: [
 					{
-						expand: true,
-						flatten: true,
-						filter: 'isFile',
-						src: 'lizard/dest/fonts/*.*',
-						dest: '../../fonts/'
+						src: '_site/Lizard.html', 
+						dest: '_site/index.html'
 					}
 				]
 			}
@@ -51,7 +59,7 @@ module.exports = function(grunt) {
 
 	// grunt.loadTasks('tasks');
 	
-	grunt.registerTask('default', ['jshint', 'clean', 'webfont', 'copy', 'clean']);
+	grunt.registerTask('default', ['jshint', 'clean', 'webfont', 'rename', 'clean']);
 	grunt.registerTask('build', ['default']);
 
 };
