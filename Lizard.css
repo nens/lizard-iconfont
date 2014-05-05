@@ -3,11 +3,11 @@
 
 @font-face {
 	font-family:"Lizard";
-	src:url("../fonts/Lizard.eot");
-	src:url("../fonts/Lizard.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/Lizard.woff") format("woff"),
-		url("../fonts/Lizard.ttf") format("truetype"),
-		url("../fonts/Lizard.svg?#Lizard") format("svg");
+	src:url("fonts/Lizard.eot");
+	src:url("fonts/Lizard.eot?#iefix") format("embedded-opentype"),
+		url("fonts/Lizard.woff") format("woff"),
+		url("fonts/Lizard.ttf") format("truetype"),
+		url("fonts/Lizard.svg?#Lizard") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }
