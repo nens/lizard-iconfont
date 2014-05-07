@@ -1,7 +1,5 @@
 Source files
 ============
 
-This directory contains the Illustrator, Sketch.app or Inkscape source files.
-
-They should be named 'icon-fontname'.
+This directory contains the Adobe Illustrator, [Sketch.app](http://bohemiancoding.com/sketch/) or [Inkscape](http://www.inkscape.org/en/) source files.
 
