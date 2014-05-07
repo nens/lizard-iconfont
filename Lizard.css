@@ -125,43 +125,31 @@
 
 
 
-.icon-satellite-dark:before {
+.icon-satellite:before {
 	content:"\e010";
 }
 
 
 
-.icon-satellite:before {
+.icon-terrain:before {
 	content:"\e011";
 }
 
 
 
-.icon-terrain-dark:before {
+.icon-weir-automatic:before {
 	content:"\e012";
 }
 
 
 
-.icon-terrain:before {
+.icon-weir-controlable:before {
 	content:"\e013";
 }
 
 
 
-.icon-weir-automatic:before {
-	content:"\e014";
-}
-
-
-
-.icon-weir-controlable:before {
-	content:"\e015";
-}
-
-
-
 .icon-weir:before {
-	content:"\e016";
+	content:"\e014";
 }
 
