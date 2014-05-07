@@ -1,7 +1,12 @@
 lizard-iconfont
 ===============
 
-Iconfont for Lizard NXT. Includes parts of the Kunstwerk font and borrows from Font Awesome.
+Iconfont for Lizard NXT. Includes parts of the [Kunstwerk](http://nens.github.io/nens-carto/kunstwerk/) iconfont which we made specifically for the hydracore project and for use in Mapnik rendering. `lizard-iconfont` is a more general font for Lizard (NXT), and can still be used in Mapnik/Tilemill.
+
+
+Demo
+----
+Have a look [here](http://nens.github.io/lizard-iconfont/).
 
 
 What's this?
