@@ -10,6 +10,7 @@ module.exports = function(grunt) {
 			lizard: {
 				src: 'lizard/src/*.svg',
 				dest: 'lizard/dest/fonts',
+				destCss: 'lizard/dest/css',
 				options: {
 					font: 'Lizard',
 					types: 'eot,woff,svg,ttf',
