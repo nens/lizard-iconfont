@@ -1,4 +1,0 @@
-[submodule "_site"]
-	path = _site
-	url = git@github.com:nens/lizard-iconfont.git
-	branch = gh-pages
