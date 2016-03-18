@@ -132,6 +132,24 @@ Hover over an icon to see its unicode character.
         weir-controlable
       </a>
     </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: )">
+        <i class="lz lz-default"></i>
+        default object
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: \f1c0">
+        <i class="lz lz-groundwaterstation"></i>
+        groundwaterstation
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: \f043">
+        <i class="lz lz-measuringstation"></i>
+        measuringstation
+      </a>
+    </div>
   </div>
 </div>
 
