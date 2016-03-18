@@ -61,3 +61,15 @@
 .#{$lz-css-prefix}-weir-controlable:before {
 	content: $lz-var-weir-controlable;
 }
+.#{$lz-css-prefix}-default:before {
+	content: $lz-var-default;
+}
+.#{$lz-css-prefix}-groundwaterstation:before,
+.#{$lz-css-prefix}-database:before {
+	content: $lz-var-database;
+}
+.#{$lz-css-prefix}-measuringstation:before,
+.#{$lz-css-prefix}-tint:before,
+.#{$lz-css-prefix}-drop:before {
+	content: $lz-var-tint;
+}
