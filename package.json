@@ -1,20 +1,25 @@
 {
-  "name": "",
-  "version": "0.1.0",
-  "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-jshint": "~0.6.3",
-    "grunt-contrib-jst": "",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt-contrib-uglify": "~0.2.2",
-    "grunt-contrib-rename": "~0.0.3",
-    "grunt-contrib-copy": "~0.5.0",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-jscs-checker": "~0.4.0",
-    "grunt-contrib-watch": "~0.5.3",
-    "stylus": "~0.42.2",
-    "load-grunt-tasks": "~0.4.0",
-    "xml2js" : "~0.4.1",
-    "grunt-webfont": "~0.3.4"
-  }
+  "name": "lizard-iconfont",
+  "version": "0.2.0",
+  "description": "Icons for Lizard. CSS only.",
+  "main": "dist/lizard-icons.css",
+  "scripts": {
+    "test": "compass watch",
+    "start": "compass compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nens/lizard-iconfont.git"
+  },
+  "keywords": [
+    "lizard",
+    "icon",
+    "font"
+  ],
+  "author": "Nelen & Schuurmans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nens/lizard-iconfont/issues"
+  },
+  "homepage": "https://nens.github.io/lizard-iconfont"
 }
