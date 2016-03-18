@@ -28,3 +28,7 @@ node_modules
 
 # FontForge files
 *.afm
+
+dist/font-awesome/
+
+_site
