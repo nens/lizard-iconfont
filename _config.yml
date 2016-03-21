@@ -10,8 +10,8 @@ title: Lizard Icon Font
 email: heleen.vandeschraaf@nelen-schuurmans.nl
 description: > # this means to ignore newlines until "baseurl:"
   Documentation for Lizard Icon Font.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nens.github.io/lizard-iconfont/" # the base hostname & protocol for your site
+baseurl: "/lizard-iconfont" # the subpath of your site, e.g. /blog
+url: "https://nens.github.io/lizard-iconfont" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
