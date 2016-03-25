@@ -29,6 +29,13 @@ $lz-var-weir:                   "r";
 $lz-var-weir-automatic:         "s";
 $lz-var-weir-controlable:       "t";
 $lz-var-default:                ")";
+$lz-var-inclinometer:           "(";
+$lz-var-image:                  "\f03e";  // Radar images, IR images
+$lz-var-rss:                    "\f09e";  // DMC
+$lz-var-seismometer:            "G";
+$lz-var-monitoring-well:        "z";
+$lz-var-open-water-level:       "y";
+
 
 // Straight from FontAwesome
 $lz-var-database:               "\f1c0";  // Groundwaterstation, database
