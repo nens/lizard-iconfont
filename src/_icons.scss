@@ -73,3 +73,34 @@
 .#{$lz-css-prefix}-drop:before {
 	content: $lz-var-tint;
 }
+
+.#{$lz-css-prefix}-radar-image:before,
+.#{$lz-css-prefix}-radar-images:before,
+.#{$lz-css-prefix}-ir-image:before,
+.#{$lz-css-prefix}-ir-images:before,
+.#{$lz-css-prefix}-images:before,
+.#{$lz-css-prefix}-image:before {
+	content: $lz-var-image;
+}
+
+.#{$lz-css-prefix}-inclinometer:before {
+	content: $lz-var-inclinometer;
+}
+
+.#{$lz-css-prefix}-rss:before,
+.#{$lz-css-prefix}-feed:before,
+.#{$lz-css-prefix}-dmc:before {
+	content: $lz-var-rss;
+}
+
+.#{$lz-css-prefix}-open-water-level:before {
+	content: $lz-var-open-water-level;
+}
+
+.#{$lz-css-prefix}-monitoring-well:before {
+	content: $lz-var-monitoring-well;
+}
+
+.#{$lz-css-prefix}-seismometer:before {
+	content: $lz-var-seismometer;
+}
