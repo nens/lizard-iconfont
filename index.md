@@ -150,8 +150,49 @@ Hover over an icon to see its unicode character.
         measuringstation
       </a>
     </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: (">
+        <i class="lz lz-inclinometer"></i>
+        Inclinometer
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: \f09e">
+        <i class="lz lz-dmc"></i>
+        DMC
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: G">
+        <i class="lz lz-seismometer"></i>
+        seismometer
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: y">
+        <i class="lz lz-open-water-level"></i>
+        open water level
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: z">
+        <i class="lz lz-monitoring-well"></i>
+        monitoring well
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: \f03e">
+        <i class="lz lz-radar-image"></i>
+        radar image
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: \f03e">
+        <i class="lz lz-ir-image"></i>
+        IR image
+      </a>
+    </div>
   </div>
 </div>
-
 
 {% include_relative README.md %}
