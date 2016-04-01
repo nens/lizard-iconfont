@@ -170,8 +170,8 @@ Hover over an icon to see its unicode character.
     </div>
     <div class="col-md-4 col-sm-4">
       <a class="name" title="Unicode Character: y">
-        <i class="lz lz-open-water-level"></i>
-        open water level
+        <i class="lz lz-surface-water"></i>
+        surface water
       </a>
     </div>
     <div class="col-md-4 col-sm-4">
