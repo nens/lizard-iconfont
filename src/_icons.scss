@@ -64,7 +64,6 @@
 .#{$lz-css-prefix}-default:before {
 	content: $lz-var-default;
 }
-.#{$lz-css-prefix}-groundwaterstation:before,
 .#{$lz-css-prefix}-database:before {
 	content: $lz-var-database;
 }
@@ -97,6 +96,7 @@
 	content: $lz-var-surface-water;
 }
 
+.#{$lz-css-prefix}-groundwaterstation:before,
 .#{$lz-css-prefix}-monitoring-well:before {
 	content: $lz-var-monitoring-well;
 }
