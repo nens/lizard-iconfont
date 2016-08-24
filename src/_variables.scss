@@ -6,7 +6,7 @@ $lz-font-path:        "../fonts" !default;
 $lz-font-size-base:   14px !default;
 $lz-line-height-base: 1 !default;
 $lz-css-prefix:       lz !default;
-$lz-version:          "1.0" !default;
+$lz-version:          "1.1" !default;
 
 $lz-var-bridge:                 "a";
 $lz-var-bridge-draw:            "b";
@@ -35,6 +35,7 @@ $lz-var-rss:                    "\f09e";  // DMC
 $lz-var-seismometer:            "G";
 $lz-var-monitoring-well:        "z";
 $lz-var-surface-water:          "y";
+$lz-var-threedi:                "{"; // threedi logo
 
 
 // Straight from FontAwesome
