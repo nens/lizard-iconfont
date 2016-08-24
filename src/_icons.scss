@@ -104,3 +104,8 @@
 .#{$lz-css-prefix}-seismometer:before {
 	content: $lz-var-seismometer;
 }
+
+.#{$lz-css-prefix}-3di:before,
+.#{$lz-css-prefix}-threedi:before {
+	content: $lz-var-threedi;
+}
