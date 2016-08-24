@@ -14,14 +14,14 @@ Hover over an icon to see its unicode character.
       <a class="name" title="Unicode Character: a">
         <i class="lz lz-bridge"></i>
         bridge
-      
+
       </a>
     </div>
     <div class="col-md-4 col-sm-4">
       <a class="name" title="Unicode Character: b">
         <i class="lz lz-bridge-draw"></i>
         bridge-draw
-      
+
       </a>
     </div>
     <div class="col-md-4 col-sm-4">
@@ -190,6 +190,12 @@ Hover over an icon to see its unicode character.
       <a class="name" title="Unicode Character: \f03e">
         <i class="lz lz-ir-image"></i>
         IR image
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: {">
+        <i class="lz lz-threedi" style="color: #ed1848"></i>
+        threedi
       </a>
     </div>
   </div>
