@@ -1,6 +1,6 @@
 {
   "name": "lizard-iconfont",
-  "version": "0.3.1",
+  "version": "1.2",
   "description": "Icons for Lizard. CSS only.",
   "main": "dist/lizard-icons.css",
   "scripts": {
