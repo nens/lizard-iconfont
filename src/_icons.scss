@@ -109,3 +109,15 @@
 .#{$lz-css-prefix}-threedi:before {
 	content: $lz-var-threedi;
 }
+
+.#{$lz-css-prefix}-multi-point-tool:before {
+	content: $lz-var-multi-point-tool;
+}
+
+.#{$lz-css-prefix}-line-tool:before {
+	content: $lz-var-line-tool;
+}
+
+.#{$lz-css-prefix}-region-tool:before {
+	content: $lz-var-region-tool;
+}
