@@ -1,6 +1,12 @@
 Changelog of lizard-iconfont
 ============================
 
+Release 1.3.1 (2016-09-29)
+--------------------------
+
+- Updated bower.json to also use new version number
+
+
 Release 1.3.0 (2016-09-29)
 --------------------------
 
