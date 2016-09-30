@@ -198,6 +198,24 @@ Hover over an icon to see its unicode character.
         threedi
       </a>
     </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: |">
+        <i class="lz lz-multi-point-tool" style="color: #ed1848"></i>
+        multi-point tool
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: }">
+        <i class="lz lz-line-tool" style="color: #ed1848"></i>
+        line tool
+      </a>
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: ~">
+        <i class="lz lz-area-tool" style="color: #ed1848"></i>
+        area tool
+      </a>
+    </div>
   </div>
 </div>
 
