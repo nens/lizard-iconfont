@@ -200,20 +200,20 @@ Hover over an icon to see its unicode character.
     </div>
     <div class="col-md-4 col-sm-4">
       <a class="name" title="Unicode Character: |">
-        <i class="lz lz-multi-point-tool" style="color: #ed1848"></i>
+        <i class="lz lz-multi-point-tool"></i>
         multi-point tool
       </a>
     </div>
     <div class="col-md-4 col-sm-4">
       <a class="name" title="Unicode Character: }">
-        <i class="lz lz-line-tool" style="color: #ed1848"></i>
+        <i class="lz lz-line-tool"></i>
         line tool
       </a>
     </div>
     <div class="col-md-4 col-sm-4">
       <a class="name" title="Unicode Character: ~">
-        <i class="lz lz-area-tool" style="color: #ed1848"></i>
-        area tool
+        <i class="lz lz-region-tool"></i>
+        region tool
       </a>
     </div>
   </div>
