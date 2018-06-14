@@ -6,7 +6,7 @@ $lz-font-path:        "../fonts" !default;
 $lz-font-size-base:   14px !default;
 $lz-line-height-base: 1 !default;
 $lz-css-prefix:       lz !default;
-$lz-version:          "1.1" !default;
+$lz-version:          "1.3.4" !default;
 
 $lz-var-bridge:                 "a";
 $lz-var-bridge-draw:            "b";
@@ -39,7 +39,7 @@ $lz-var-threedi:                "{"; // threedi logo
 $lz-var-multi-point-tool:       "|"; // tool for selecting multiple points
 $lz-var-line-tool:              "}"; // tool for drawing a line
 $lz-var-region-tool:            "~"; // tool for selecting a region
-
+$lz-var-flow-meter:             "'";
 
 // Straight from FontAwesome
 $lz-var-database:               "\f1c0";  // Groundwaterstation, database
