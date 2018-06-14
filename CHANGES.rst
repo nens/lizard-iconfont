@@ -1,7 +1,7 @@
 Changelog of lizard-iconfont
 ============================
 
-Release 1.3.2 2018-06-14
+Release 1.3.3 2018-06-14
 -------------------------------
 
 - Rotated weir icons.
