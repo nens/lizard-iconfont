@@ -1,13 +1,19 @@
 Changelog of lizard-iconfont
 ============================
 
-Release 1.3.4 2018-06-14
+Release 1.3.5 (unreleased)
+-------------------------------
+
+- Nothing changed.
+
+
+Release 1.3.4 (2018-06-15)
 -------------------------------
 
 - Added flow meter icon.
 
 
-Release 1.3.3 2018-06-14
+Release 1.3.3 (2018-06-14)
 -------------------------------
 
 - Rotated weir icons.
