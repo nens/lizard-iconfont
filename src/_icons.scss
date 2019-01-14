@@ -125,3 +125,8 @@
 .#{$lz-css-prefix}-flow-meter:before {
 	content: $lz-var-flow-meter;
 }
+
+.#{$lz-css-prefix}-monitoring-well-inactive:before {
+	content: $lz-var-monitoring-well-inactive;
+}
+
