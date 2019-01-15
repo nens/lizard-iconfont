@@ -1,10 +1,11 @@
 Changelog of lizard-iconfont
 ============================
 
-Release 1.3.5 (unreleased)
+
+Release 1.3.7 (2019-01-15)
 -------------------------------
 
-- Nothing changed.
+- Add inactive groundwaterstation.
 
 
 Release 1.3.4 (2018-06-15)
