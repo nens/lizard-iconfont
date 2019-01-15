@@ -32,3 +32,5 @@ node_modules
 dist/font-awesome/
 
 _site
+
+.idea/
