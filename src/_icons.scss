@@ -126,6 +126,10 @@
 	content: $lz-var-flow-meter;
 }
 
+.#{$lz-css-prefix}-monument:before {
+ 	content: $lz-var-monument;
+}
+
 .#{$lz-css-prefix}-groundwaterstation-inactive:before {
  	content: $lz-var-groundwaterstation-inactive;
 }

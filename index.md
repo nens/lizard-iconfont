@@ -222,6 +222,12 @@ Hover over an icon to see its unicode character.
         region tool
       </a>
     </div>
+    <div class="col-md-4 col-sm-4">
+      <a class="name" title="Unicode Character: À">
+        <i class="lz lz-monument"></i>
+        monument
+      </a>
+    </div>
   </div>
 </div>
 
