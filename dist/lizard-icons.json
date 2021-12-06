@@ -1,0 +1,22 @@
+{
+  "bridge-draw": 61697,
+  "bridge-fixed": 61698,
+  "bridge": 61699,
+  "culvert-with-outlet": 61700,
+  "culvert": 61701,
+  "manhole": 61702,
+  "outlet": 61703,
+  "overflow-open": 61704,
+  "overflow": 61705,
+  "pipe": 61706,
+  "pumpstation-diesel": 61707,
+  "pumpstation-electric": 61708,
+  "pumpstation-wind": 61709,
+  "pumpstation": 61710,
+  "rwzi": 61711,
+  "satellite": 61712,
+  "terrain": 61713,
+  "weir-automatic": 61714,
+  "weir-controlable": 61715,
+  "weir": 61716
+}
