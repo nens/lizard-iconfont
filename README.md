@@ -3,8 +3,17 @@ Lizard Icon Font
 
 Usage
 -----
+The iconfont can be used as such (in HTML):
 
-Look at `index.html` in `dist/` after generating.
+```html
+// Make sure to include the CSS:
+<link rel="stylesheet" type="text/css" href="lizard-icons.css" />
+
+// Then somewhere in the body:
+<i class="lz lz-overflow"></i>
+```
+
+For more info look at `index.html` in `dist/` after generating.
 
 
 Lizard Icons Overview
@@ -16,7 +25,7 @@ on-line documentation](http://nens.github.io/lizard-iconfont/).
 Requires
 --------
 
-This package requires Node and NPM.
+This package requires Node and NPM. Run `npm install` to install the dependencies.
 
 To generate the icons, run:
 
