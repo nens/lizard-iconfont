@@ -1,6 +1,10 @@
 Changelog of lizard-iconfont
 ============================
 
+Release 2.0 (2021-12-06)
+-------------------------------
+- Move from Ruby solution to JS based Fantasticon (https://github.com/tancredi/fantasticon).
+
 
 Release 1.3.8 (2019-01-25)
 -------------------------------
