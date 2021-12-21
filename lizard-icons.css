@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "lizard-icons";
+    src: url("./lizard-icons.ttf?3e81927e5b499d9589a9ef23a03f70dd") format("truetype"),
+url("./lizard-icons.woff?3e81927e5b499d9589a9ef23a03f70dd") format("woff"),
+url("./lizard-icons.woff2?3e81927e5b499d9589a9ef23a03f70dd") format("woff2");
+}
+
+i[class^="lz-"]:before, i[class*=" lz-"]:before {
+    font-family: lizard-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.lz-bridge-draw:before {
+    content: "\f101";
+}
+.lz-bridge-fixed:before {
+    content: "\f102";
+}
+.lz-bridge:before {
+    content: "\f103";
+}
+.lz-culvert-with-outlet:before {
+    content: "\f104";
+}
+.lz-culvert:before {
+    content: "\f105";
+}
+.lz-manhole:before {
+    content: "\f106";
+}
+.lz-outlet:before {
+    content: "\f107";
+}
+.lz-overflow-open:before {
+    content: "\f108";
+}
+.lz-overflow:before {
+    content: "\f109";
+}
+.lz-pipe:before {
+    content: "\f10a";
+}
+.lz-pumpstation-diesel:before {
+    content: "\f10b";
+}
+.lz-pumpstation-electric:before {
+    content: "\f10c";
+}
+.lz-pumpstation-wind:before {
+    content: "\f10d";
+}
+.lz-pumpstation:before {
+    content: "\f10e";
+}
+.lz-rwzi:before {
+    content: "\f10f";
+}
+.lz-satellite:before {
+    content: "\f110";
+}
+.lz-terrain:before {
+    content: "\f111";
+}
+.lz-weir-automatic:before {
+    content: "\f112";
+}
+.lz-weir-controlable:before {
+    content: "\f113";
+}
+.lz-weir:before {
+    content: "\f114";
+}
