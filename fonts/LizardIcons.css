@@ -1,12 +1,14 @@
 @font-face {
-    font-family: "lizard-icons";
-    src: url("./lizard-icons.ttf?53684828166d74e6fb9f16cbf2203b46") format("truetype"),
-url("./lizard-icons.woff?53684828166d74e6fb9f16cbf2203b46") format("woff"),
-url("./lizard-icons.woff2?53684828166d74e6fb9f16cbf2203b46") format("woff2");
+    font-family: "LizardIcons";
+    src: url("./LizardIcons.ttf?7f7c41072bf38a7c7b86edb43fd48d2a") format("truetype"),
+url("./LizardIcons.woff?7f7c41072bf38a7c7b86edb43fd48d2a") format("woff"),
+url("./LizardIcons.woff2?7f7c41072bf38a7c7b86edb43fd48d2a") format("woff2"),
+url("./LizardIcons.eot?7f7c41072bf38a7c7b86edb43fd48d2a#iefix") format("embedded-opentype"),
+url("./LizardIcons.svg?7f7c41072bf38a7c7b86edb43fd48d2a#LizardIcons") format("svg");
 }
 
 i[class^="lz-"]:before, i[class*=" lz-"]:before {
-    font-family: lizard-icons !important;
+    font-family: LizardIcons !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;

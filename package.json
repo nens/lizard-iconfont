@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Icons for Lizard.",
   "scripts": {
-    "start": "fantasticon && cp dist/lizard-icons.html dist/index.html"
+    "start": "fantasticon && cp fonts/LizardIcons.html fonts/index.html"
   },
   "repository": {
     "type": "git",
