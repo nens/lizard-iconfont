@@ -13,7 +13,7 @@ The iconfont can be used as such (in HTML):
 <i class="lz lz-overflow"></i>
 ```
 
-For more info look at `index.html` in `dist/` after generating.
+For more info look at `index.html` in `fonts/` after generating.
 
 
 Lizard Icons Overview
