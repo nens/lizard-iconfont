@@ -1,10 +1,9 @@
 module.exports = {
   inputDir: './originals',
-  outputDir: './dist', // (required)
-  fontTypes: ['ttf', 'woff', 'woff2'],
+  outputDir: './fonts', // (required)
+  fontTypes: ['ttf', 'woff', 'woff2', 'eot', 'svg'],
   assetTypes: ['ts', 'css', 'json', 'html'],
-
-  name: 'lizard-icons',
+  name: 'LizardIcons',
   normalize: true,
   prefix: 'lz'
 };
