@@ -1,6 +1,6 @@
 {
   "name": "lizard-iconfont",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Icons for Lizard.",
   "scripts": {
     "start": "fantasticon && cp fonts/LizardIcons.html fonts/index.html"
