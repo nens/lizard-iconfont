@@ -1,10 +1,10 @@
 @font-face {
     font-family: "LizardIcons";
-    src: url("./LizardIcons.ttf?7f7c41072bf38a7c7b86edb43fd48d2a") format("truetype"),
-url("./LizardIcons.woff?7f7c41072bf38a7c7b86edb43fd48d2a") format("woff"),
-url("./LizardIcons.woff2?7f7c41072bf38a7c7b86edb43fd48d2a") format("woff2"),
-url("./LizardIcons.eot?7f7c41072bf38a7c7b86edb43fd48d2a#iefix") format("embedded-opentype"),
-url("./LizardIcons.svg?7f7c41072bf38a7c7b86edb43fd48d2a#LizardIcons") format("svg");
+    src: url("./LizardIcons.ttf?77aa06443246d2685a821a4be064d907") format("truetype"),
+url("./LizardIcons.woff?77aa06443246d2685a821a4be064d907") format("woff"),
+url("./LizardIcons.woff2?77aa06443246d2685a821a4be064d907") format("woff2"),
+url("./LizardIcons.eot?77aa06443246d2685a821a4be064d907#iefix") format("embedded-opentype"),
+url("./LizardIcons.svg?77aa06443246d2685a821a4be064d907#LizardIcons") format("svg");
 }
 
 i[class^="lz-"]:before, i[class*=" lz-"]:before {
@@ -66,15 +66,18 @@ i[class^="lz-"]:before, i[class*=" lz-"]:before {
 .lz-satellite:before {
     content: "\f110";
 }
-.lz-terrain:before {
+.lz-scenario:before {
     content: "\f111";
 }
-.lz-weir-automatic:before {
+.lz-terrain:before {
     content: "\f112";
 }
-.lz-weir-controlable:before {
+.lz-weir-automatic:before {
     content: "\f113";
 }
-.lz-weir:before {
+.lz-weir-controlable:before {
     content: "\f114";
+}
+.lz-weir:before {
+    content: "\f115";
 }

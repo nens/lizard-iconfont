@@ -15,8 +15,9 @@
     "pumpstation": 61710,
     "rwzi": 61711,
     "satellite": 61712,
-    "terrain": 61713,
-    "weir-automatic": 61714,
-    "weir-controlable": 61715,
-    "weir": 61716
+    "scenario": 61713,
+    "terrain": 61714,
+    "weir-automatic": 61715,
+    "weir-controlable": 61716,
+    "weir": 61717
 }

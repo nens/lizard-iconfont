@@ -15,6 +15,7 @@ export type LizardIconsId =
   | "pumpstation"
   | "rwzi"
   | "satellite"
+  | "scenario"
   | "terrain"
   | "weir-automatic"
   | "weir-controlable"
@@ -37,6 +38,7 @@ export type LizardIconsKey =
   | "Pumpstation"
   | "Rwzi"
   | "Satellite"
+  | "Scenario"
   | "Terrain"
   | "WeirAutomatic"
   | "WeirControlable"
@@ -59,6 +61,7 @@ export enum LizardIcons {
   Pumpstation = "pumpstation",
   Rwzi = "rwzi",
   Satellite = "satellite",
+  Scenario = "scenario",
   Terrain = "terrain",
   WeirAutomatic = "weir-automatic",
   WeirControlable = "weir-controlable",
@@ -82,8 +85,9 @@ export const LIZARD_ICONS_CODEPOINTS: { [key in LizardIcons]: string } = {
   [LizardIcons.Pumpstation]: "61710",
   [LizardIcons.Rwzi]: "61711",
   [LizardIcons.Satellite]: "61712",
-  [LizardIcons.Terrain]: "61713",
-  [LizardIcons.WeirAutomatic]: "61714",
-  [LizardIcons.WeirControlable]: "61715",
-  [LizardIcons.Weir]: "61716",
+  [LizardIcons.Scenario]: "61713",
+  [LizardIcons.Terrain]: "61714",
+  [LizardIcons.WeirAutomatic]: "61715",
+  [LizardIcons.WeirControlable]: "61716",
+  [LizardIcons.Weir]: "61717",
 };
